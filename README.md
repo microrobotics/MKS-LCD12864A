@@ -6,16 +6,16 @@ The MKS 3D Printer LCD 12864 Display meets all requirements for 3D printer contr
 # Compatibility 
 The MKS-LCD12864A is compatible with the all the Makerbase boards except the following boards. This display is compatible with all the 8 bit boards 
 
-# Compatible with
+### Compatible with
 - MKS gen
 - MKS gen_l
 - MKS base
 - All of MKS 8 bit boards
 
-# Not compatible with 
+## Not compatible with 
 - MKS SBase
 - MKS SGen and MKS SGen_L
 - MKS Robin Series (Robin, Robin 2, Robin Mini, Robin lite)
 
-# Product Page
+#### Product Page
 https://www.robotics.org.za/MKS-LCD12864A
